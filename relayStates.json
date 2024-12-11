@@ -1,0 +1,40 @@
+[
+    {
+      "port": 1,
+      "state": "off",
+      "scheduleStart": null,
+      "scheduleEnd": null
+    },
+    {
+      "port": 2,
+      "state": "off",
+      "scheduleStart": null,
+      "scheduleEnd": null
+    },
+    {
+      "port": 3,
+      "state": "off",
+      "scheduleStart": null,
+      "scheduleEnd": null
+    },
+    {
+      "port": 4,
+      "state": "on",
+      "scheduleStart": null,
+      "scheduleEnd": null
+    },
+    {
+      "port": 5,
+      "state": "on",
+      "scheduleStart": null,
+      "scheduleEnd": null
+    },
+    {
+      "port": 6,
+      "state": "off",
+      "scheduleStart": "17:00",
+      "scheduleEnd": "06:00"
+    }
+  ]
+  
+  
